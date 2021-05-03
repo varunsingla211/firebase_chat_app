@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578088298433",
+    "project_id": "chat-daca3",
+    "storage_bucket": "chat-daca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578088298433:android:c726d4d2f6c929b25e3140",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578088298433-88tgsg4h4128gjaif536j4bbla9vte5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9woLMb9sqqUtgHbeZBol0U638Po-ebj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578088298433-88tgsg4h4128gjaif536j4bbla9vte5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
